@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="/frontend/public/Icon.svg" alt="Logo" width="100"/>
-
-# 🚀 Product Store – MERN Stack App
+#  Product Store – Full Stack Website (MERN)
 
 **“A lightweight, modern store application to manage products with ease.”**
 
